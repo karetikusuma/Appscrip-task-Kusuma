@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/appscrip-task-kusuma/app/globals.css"],"sourcesContent":[".container {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));\n  gap: 20px;\n  margin-top: 20px;\n}\n\n.card {\n  border: 1px solid #ddd;\n  padding: 15px;\n  border-radius: 10px;\n  text-align: center;\n  background: white;\n  transition: 0.3s;\n}\n\n.card:hover {\n  transform: scale(1.05);\n}\n\nimg {\n  width: 100%;\n  height: 150px;\n  object-fit: contain;\n}\n\nh1 {\n  text-align: center;\n}\n\nh2 {\n  text-align: center;\n  color: gray;\n}"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;;;AASA;;;;AAIA;;;;;;AAMA;;;;AAIA"}}]
+}
